@@ -1,9 +1,9 @@
 # BigData_Kafka_Airflow
 Learning Kafka with Spark Streaming and Airflow
-[![Apache Kafka blog](https://kafka.apache.org/quickstart)]
+[[Apache Kafka blog](https://kafka.apache.org/quickstart)]
 
 STEP 1: DOWNLOAD AND INSTALL KAFKA
-[![Download](https://www.apache.org/dyn/closer.cgi?path=/kafka/3.6.1/kafka_2.13-3.6.1.tgz)]
+[[Download](https://www.apache.org/dyn/closer.cgi?path=/kafka/3.6.1/kafka_2.13-3.6.1.tgz)]
 
 STEP 2: START THE KAFKA ENVIRONMENT (use cmd prompt and go inside kafka folder)
 Start the ZooKeeper service
