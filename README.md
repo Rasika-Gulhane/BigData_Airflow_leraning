@@ -86,8 +86,20 @@ airflow webserver -p 8080  #port 8080
 
  ![logged-in admin](images/image_acc_admin.png)
 
+6. open another terminal
 
+repeat step 2 for scheduler connection 
 
+Then initialize scheduler 
 
+`
+- airflow scheduler
+`
 
+- Checkall scheduler
+`
+ps aux | grep "airflow scheduler"
+`
+open webserver to see if scheduler is running (it will remove the pop up message of scheduler not running
 
+![Initialize scheduler](images/sceduler_started.png)
