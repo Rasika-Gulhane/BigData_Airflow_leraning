@@ -93,7 +93,7 @@ repeat step 2 for scheduler connection
 Then initialize scheduler 
 
 `
-- airflow scheduler
+airflow scheduler
 `
 
 - Checkall scheduler
