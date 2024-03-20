@@ -2,7 +2,7 @@
 
 # AIRFLOW
 
-Download necessities in VS code through Airflow official github : https://github.com/apache/airflow?tab=readme-ov-file#installing-from-pypi
+Download necessities in project (any IDE like VS code) through Airflow official github : https://github.com/apache/airflow?tab=readme-ov-file#installing-from-pypi
 
 click on: Installing from PyPI
 
